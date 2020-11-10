@@ -1,1 +1,1 @@
-this is a individual work
+this is an individual work
