@@ -1,2 +1,1 @@
-# ada-website
-just a webpage
+this is a individual work
